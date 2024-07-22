@@ -4,7 +4,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/bahromnajmiddinov/count.svg)
 
-## Technalogies
+## Technologies 
 
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/>

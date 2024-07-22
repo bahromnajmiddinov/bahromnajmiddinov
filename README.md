@@ -6,7 +6,7 @@
 
 ## Skills
 
-[Icon code for Python](https://skillicons.dev/icons?i=python) Python |  [Icon code for JavaScript](https://skillicons.dev/icons?i=javascript) JavaScript 
+![Python](https://skillicons.dev/icons?i=python) Python |  [Icon code for JavaScript](https://skillicons.dev/icons?i=javascript) JavaScript 
 [Icon code for Django](https://skillicons.dev/icons?i=django) Django | [Icon code for Django REST Framework](https://skillicons.dev/icons?i=django-rest-framework) Django REST Framework (DRF)
 [Icon code for Docker](https://skillicons.dev/icons?i=docker) Docker |  [Icon code for Docker Compose](https://skillicons.dev/icons?i=docker-compose) Docker Compose
 [Icon code for SQL](https://skillicons.dev/icons?i=sql) SQL |  [Icon code for PostgreSQL](https://skillicons.dev/icons?i=postgresql) PostgreSQL

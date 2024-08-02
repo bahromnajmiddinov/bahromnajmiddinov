@@ -5,6 +5,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/bahromnajmiddinov/count.svg)
 
 ## #opentowork
+Check out my resume: [View Resume](https://drive.google.com/file/d/1a6ZVAQUs2flAMVwfTlv4a7yxPEzJcpyd/view?usp=sharing)
 
 ## Technologies 
 

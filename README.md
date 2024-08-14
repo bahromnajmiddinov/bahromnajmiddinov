@@ -4,6 +4,7 @@
 <div style="display:flex; justify-content: space-between">
 	<p>VIEWS:</p>
 	![Visitor Count](https://profile-counter.glitch.me/bahromnajmiddinov/count.svg)
+	<img src="https://profile-counter.glitch.me/bahromnajmiddinov/count.svg" alt="Visitor Count" />
 </div>
 
 ## #opentowork

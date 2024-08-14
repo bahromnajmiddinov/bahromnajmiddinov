@@ -10,7 +10,7 @@
 
 <div>
 	<img src="https://profile-counter.glitch.me/bahromnajmiddinov/count.svg" alt="Visitor Count" align="right" />
-	<p>VIEWS:</p>
+	<p>👁‍🗨</p>
 </div>
 
 ## #opentowork

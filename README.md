@@ -1,8 +1,8 @@
 
 <h1 align="center"><b>Hi , I'm Bahrom Najmiddinov </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div style="display: flex; justify-content: space-between;">
-	<p>VIEWS:</p>
+<div>
+	<p>VIEWS:&nbsp;&nbsp;&nbsp;</p>
 	<img src="https://profile-counter.glitch.me/bahromnajmiddinov/count.svg" alt="Visitor Count"  />
 </div>
 

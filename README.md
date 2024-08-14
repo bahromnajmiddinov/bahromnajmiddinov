@@ -11,6 +11,8 @@ Check out my resume: [View Resume](https://drive.google.com/file/d/1a6ZVAQUs2flA
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=bahromnajmiddinov&show_icons=true&theme=dark&locale=en" alt="bahromnajmiddinov" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bahromnajmiddinov&theme=dark" alt="bahromnajmiddinov" />
 
+<br />
+
 ## Technologies 
 
 <div align="center">

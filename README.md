@@ -8,9 +8,9 @@
 Check out my resume: [View Resume](https://drive.google.com/file/d/1a6ZVAQUs2flAMVwfTlv4a7yxPEzJcpyd/view?usp=sharing)
 
 <div>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahromnajmiddinov&show_icons=true&theme=dark&locale=en&layout=compact" alt="bahromnajmiddinov" />
-	<img align="left" src="https://github-readme-stats.vercel.app/api?username=bahromnajmiddinov&show_icons=true&theme=dark&locale=en" alt="bahromnajmiddinov" />
-	<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bahromnajmiddinov&theme=dark" alt="bahromnajmiddinov" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bahromnajmiddinov&show_icons=true&theme=dark&locale=en&layout=compact" alt="bahromnajmiddinov" />
+	<img src="https://github-readme-stats.vercel.app/api?username=bahromnajmiddinov&show_icons=true&theme=dark&locale=en" alt="bahromnajmiddinov" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=bahromnajmiddinov&theme=dark" alt="bahromnajmiddinov" />
 </div>
 
 <br />

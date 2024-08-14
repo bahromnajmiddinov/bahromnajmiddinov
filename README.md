@@ -1,5 +1,5 @@
 
-### Hello World 👋
+<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/bahromnajmiddinov/count.svg)
@@ -26,6 +26,12 @@ Check out my resume: [View Resume](https://drive.google.com/file/d/1a6ZVAQUs2flA
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
 </div>
+
+<br />
+
+<p align="center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 
 

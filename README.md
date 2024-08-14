@@ -3,7 +3,7 @@
 
 <div>
 	<p align="left">VIEWS:</p>
-	<img src="https://profile-counter.glitch.me/bahromnajmiddinov/count.svg" alt="Visitor Count"  />
+	<img src="https://profile-counter.glitch.me/bahromnajmiddinov/count.svg" alt="Visitor Count" align="right" />
 </div>
 
 ## #opentowork

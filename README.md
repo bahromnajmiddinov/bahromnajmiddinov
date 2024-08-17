@@ -19,7 +19,7 @@ Check out my resume: [View Resume](https://drive.google.com/file/d/1a6ZVAQUs2flA
 <div align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=bahromnajmiddinov&theme=dark" alt="bahromnajmiddinov" width="425" />
 	<img src="https://github-readme-stats.vercel.app/api?username=bahromnajmiddinov&show_icons=true&theme=dark&locale=en" alt="bahromnajmiddinov" width="400" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bahromnajmiddinov&show_icons=true&theme=dark&locale=en&layout=compact" alt="bahromnajmiddinov" width="100vw" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bahromnajmiddinov&show_icons=true&theme=dark&locale=en&layout=compact" alt="bahromnajmiddinov" width="100%" />
 </div>
 
 <br />

@@ -13,8 +13,10 @@
 	<p>👁‍🗨</p>
 </div>
 
+<!--
 ## #opentowork
 Check out my resume: [View Resume](https://drive.google.com/file/d/1vXDSMQvECdLXWU3zl0MZHpPBWaSw7LvR/view?usp=sharing)
+-->
 
 <div align="center">
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=bahromnajmiddinov&theme=dark" alt="bahromnajmiddinov" width="425" />

@@ -20,6 +20,7 @@ Check out my resume: [View Resume](https://drive.google.com/file/d/1Hr-fdIFFcKxd
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=bahromnajmiddinov&theme=dark" alt="bahromnajmiddinov" width="425" />
 	<img src="https://github-readme-stats.vercel.app/api?username=bahromnajmiddinov&show_icons=true&theme=dark&locale=en" alt="bahromnajmiddinov" width="400" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bahromnajmiddinov&show_icons=true&theme=dark&locale=en&layout=compact" alt="bahromnajmiddinov" />
+	![LeetCode Stats](https://leetcard.jacoblin.cool/Alone404?theme=dark&font=Mohave)
 </div>
 
 <br />

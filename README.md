@@ -159,10 +159,10 @@ class Bahrom(models.Model):
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/bahrom.dev-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7)](https://bahrom.dev)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Website](https://img.shields.io/badge/bahrom.dev-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7)](https://bahromnajmiddinov.uz)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bahromnajmiddinov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bahrom-najmiddinov)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:najmiddinovbahrom402@gmail.com)
 
 <br />
 
